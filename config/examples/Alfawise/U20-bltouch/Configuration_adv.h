@@ -1282,7 +1282,7 @@
   // Display Orientation. An inverted (i.e. upside-down) display
   // is supported on the FT800. The FT810 and beyond also support
   // portrait and mirrored orientations.
-  //#define TOUCH_UI_INVERTED
+  #define TOUCH_UI_INVERTED
   //#define TOUCH_UI_PORTRAIT
   //#define TOUCH_UI_MIRRORED
 
